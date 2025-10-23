@@ -1,0 +1,8 @@
+# Create a program that takes user input, performs a mathematical operation like calculating the area of a shape, and displays the result. 
+
+width = int(input("Please enter width: "))
+length = int(input("Please enter length: "))
+
+area_of_rectangle = width * length
+result = f"The result of operation is: {area_of_rectangle}"
+print(result)

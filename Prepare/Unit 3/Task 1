@@ -1,1 +1,14 @@
 
+To prepare for the exploration of variables and data types in Python, students can begin with a task where they declare and use variables to perform basic arithmetic operations like addition, subtraction, multiplication, and division. 
+
+addition = 12 + 3
+subtraction = 
+
+
+
+
+Next, they should experiment with different data types such as integers, floats, strings, and booleans, understanding how Python handles each. 
+
+
+
+Lastly, students can attempt to store user input in variables and display the results, gaining hands-on experience with variable manipulation and data persistence in Python. This practical task will solidify their understanding of Python's foundational concepts.
